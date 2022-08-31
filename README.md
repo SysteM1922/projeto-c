@@ -7,4 +7,4 @@
 <h2>103600 Guilherme Costa Antunes - 13.3 (19.4%)</h2>
 <h2>103182 João Ricardo Paço Matos - 9.0 (3.0%)</h2>
 <h2>103541 Pedro Miguel Rodrigues Rasinahs - 13.3 (19.4%)</h2>
-<h3>Nota do Trabalho: 13</h3>
+<h3>Nota do Projeto: 13</h3>
